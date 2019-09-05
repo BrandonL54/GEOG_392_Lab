@@ -1,5 +1,5 @@
 # GEOG_392_Lab
-LABS          
+Labs          
 :------------:
 |[Lab1](Lab1/README.md)|
 |[Lab2](Lab2/README.md)|
